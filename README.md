@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @RicardoVelaC
-- 👀 I’m interested in ... coding, music and food
+- 👀 I’m interested in ... code, music and food
 - 🌱 I’m currently learning ... C
 
 <!---
